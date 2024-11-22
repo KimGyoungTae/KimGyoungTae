@@ -6,7 +6,7 @@
 
 ## About me
 
-### ⚡ Main Interest:
+### ⚡ Currently Main Interest:
 - 3D reconstruction using Space capture
 - Sharing spaces in Immersive environments
 - Memory recall and Sharing experiences
@@ -18,15 +18,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### 🔭 I'm currently active:
-- Undergraduate Researcher at Chosun University
-  + IMR LAB
-- Metaverse Association based on Seoul National University
-  + [XREAL](https://www.xreal.info/)
 
-### 🌱 I’m currently interested:
-- 3D Computer Vison
-- Computer Graphics
 
 
 
