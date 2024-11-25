@@ -7,10 +7,8 @@
 ## About me
 
 ### ⚡ Currently Main Interest:
-- 3D reconstruction using Space capture
-- Sharing spaces in Immersive environments
-- Memory recall and Sharing experiences
-- VR & AR and Spatial video
+- I'm interested in how **space sharing** with XR and 3D reconstruction can lead to **shared experiences between users**, with examples like [Meta's Hyperscape](https://www.meta.com/ko-kr/experiences/meta-horizon-hyperscape-demo/7972066712871980/?srsltid=AfmBOooi7JDpSSddr6U94_Zmazvd2xxnEr8OtL2u3O24_FpXAHzZxk72).
+- I’m also curious about the potential that this technology could fulfill the desire for memory recall.
 
 ### Cofident Skill:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
